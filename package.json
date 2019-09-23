@@ -43,7 +43,7 @@
     "nedb": "^1.8.0",
     "nedb-session-store": "^1.1.2",
     "remove-markdown": "^0.1.0",
-    "require-main-filename": "^1.0.1",
+    "require-main-filename": "^2.0.0",
     "rimraf": "^2.6.3",
     "sanitize-html": "^1.20.1",
     "simplemde": "^1.11.2",
