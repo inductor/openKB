@@ -24,7 +24,7 @@
     "express-state": "^1.4.0",
     "extract-zip": "^1.6.7",
     "font-awesome": "^4.6.3",
-    "glob": "^5.0.14",
+    "glob": "^7.1.5",
     "hbs": "^4.0.4",
     "i18n-2": "^0.6.3",
     "jquery": "^3.4.1",
