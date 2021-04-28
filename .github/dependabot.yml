@@ -1,0 +1,19 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "11:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: sitemap
+    versions:
+    - 6.3.5
+    - 6.3.6
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
+  - dependency-name: jszip
+    versions:
+    - 3.5.0
